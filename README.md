@@ -41,7 +41,7 @@ For front-end designing I have used Twitter's front-end library Bootstrap4.
 * Once a question has been published, it can neither be modify nor can be accessed. Admin can only see a list of questions.
 * Admin can search questions by question text or choice text.
 * Admin can filter questions based on whether the questions have been published or not.
-
+<hr>
 
 ## Getting started with development
 Dependencies:
